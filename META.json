@@ -4,7 +4,7 @@
       "L<mailto:corion@corion.net>"
    ],
    "dynamic_config" : 1,
-   "generated_by" : "ExtUtils::MakeMaker version 6.62, CPAN::Meta::Converter version 2.130880",
+   "generated_by" : "ExtUtils::MakeMaker version 6.66, CPAN::Meta::Converter version 2.120921",
    "license" : [
       "perl_5"
    ],
@@ -37,6 +37,7 @@
             "Dancer" : "1.3097",
             "Dancer::Plugin::FlashMessage" : "0",
             "Math::Random::MT" : "0",
+            "Template" : "2",
             "Test::More" : "0",
             "URI::Escape" : "0",
             "YAML" : "0"
@@ -44,5 +45,5 @@
       }
    },
    "release_status" : "stable",
-   "version" : "0.02"
+   "version" : "0.03"
 }
